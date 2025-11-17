@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# venv
+.venv/
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+
+# Models and data
+models/
+data/raw/
+data/processed/
+*.gguf
+*.bin
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
