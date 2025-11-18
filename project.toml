@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trustworthy_maternal_postpartum_rag"
+version = "0.1.0"
+description = "A locally-runnable Trustworthy & Explainable RAG system designed for maternal postpartum knowledge retrieval."
+readme = "README.md"
+authors = [
+    { name="Ravina Verma" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = [
+    "torch",
+    "transformers",
+    "sentence-transformers",
+    "langchain",
+    "faiss-cpu",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "tqdm",
+    "matplotlib",
+    "nltk",
+    "pyyaml",
+    "streamlit",
+    "shap",
+    "lime",
+]
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = [
+    "retriever*",
+    "generator*",
+    "safety*",
+    "explainability*",
+    "evaluation*",
+    "ui*",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/trustworthy_maternal_postpartum_rag"
+Documentation = "https://github.com/yourusername/trustworthy_maternal_postpartum_rag"
+Source = "https://github.com/yourusername/trustworthy_maternal_postpartum_rag"
