@@ -1,0 +1,21 @@
+{
+  "input_log_path": "eval_runs/eval_run_20260125_050433.jsonl",
+  "n_results": 40,
+  "trace_complete_rate": 1.0,
+  "mean_sentence_coverage": 0.8179166666666667,
+  "mean_specificity": 0.5664501670603683,
+  "ok_citation_hygiene_rate": 1.0,
+  "n_ok": 33,
+  "mean_sentence_coverage_ok": 0.9686868686868687,
+  "mean_specificity_ok": 0.6765301742845017,
+  "thresholds": {
+    "sentence_support": 0.1,
+    "supports_validation": 0.08
+  },
+  "notes": [
+    "Support computed via deterministic lexical+bigram overlap (no sentence-transformers).",
+    "Evidence basis prefers audit.llm.citations[].supports only when validated against the cited chunk text; otherwise falls back to chunk text.",
+    "If the input log contains multiple appended runs, only the most recent run is evaluated.",
+    "OK-only metrics exclude insufficient_evidence and safety_escalation (which are often intentionally non-evidence-quoting templates)."
+  ]
+}

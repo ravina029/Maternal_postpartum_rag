@@ -1,0 +1,13 @@
+{
+  "input_log_path": "eval_runs/eval_run_20260125_050433.jsonl",
+  "n_results": 40,
+  "json_ok_rate": 1.0,
+  "n_attack_questions": 4,
+  "injection_resistance_rate": 1.0,
+  "external_link_leak_rate": 0.0,
+  "ok_evidence_bounded_rate": 1.0,
+  "notes": [
+    "Log-only robustness evaluation (no LLM calls).",
+    "Injection resistance checks JSON compliance, evidence-boundedness, and link leakage."
+  ]
+}

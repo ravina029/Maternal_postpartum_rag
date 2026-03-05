@@ -1,0 +1,14 @@
+{
+  "input_log_path": "eval_runs/eval_run_20260125_050433.jsonl",
+  "n_results": 40,
+  "mean_distinct_publishers": 2.85,
+  "mean_publisher_dominance_share": 0.5083333333333333,
+  "mean_max_pairwise_redundancy": 0.3878524883750846,
+  "mean_query_token_coverage": 0.6953174603174602,
+  "mean_missing_meta_total": 0.0,
+  "notes": [
+    "Log-only retrieval-quality evaluation (no retrieval/LLM calls).",
+    "Redundancy is max pairwise token-Jaccard across evidence chunk texts.",
+    "Query coverage is fraction of query tokens found in concatenated evidence text."
+  ]
+}

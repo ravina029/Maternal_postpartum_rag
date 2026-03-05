@@ -1,0 +1,107 @@
+[2025-12-02T13:42:31] Starting indexing run
+[2025-12-02T13:42:40] Estimated total chunks: 2289
+[2025-12-02T13:42:40] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/Primary health care for children and adolescents_chunks.jsonl
+[2025-12-02T13:42:43] Indexed 128 chunks so far
+[2025-12-02T13:42:46] Indexed 256 chunks so far
+[2025-12-02T13:42:49] Indexed 384 chunks so far
+[2025-12-02T13:42:51] Indexed 512 chunks so far
+[2025-12-02T13:42:54] Indexed 640 chunks so far
+[2025-12-02T13:42:54] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/canada_postpartum_chapter5_chunks.jsonl
+[2025-12-02T13:42:57] Indexed 768 chunks so far
+[2025-12-02T13:42:57] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/south_africa_maternal_perinatal_chunks.jsonl
+[2025-12-02T13:43:00] Indexed 896 chunks so far
+[2025-12-02T13:43:03] Indexed 1024 chunks so far
+[2025-12-02T13:43:03] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/spain_pregnancy_puerperium_chunks.jsonl
+[2025-12-02T13:43:05] Indexed 1152 chunks so far
+[2025-12-02T13:43:08] Indexed 1280 chunks so far
+[2025-12-02T13:43:11] Indexed 1408 chunks so far
+[2025-12-02T13:43:11] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/uk_pregnancy_book_chunks.jsonl
+[2025-12-02T13:43:14] Indexed 1536 chunks so far
+[2025-12-02T13:43:17] Indexed 1664 chunks so far
+[2025-12-02T13:43:17] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_pcpnc_third_edition_chunks.jsonl
+[2025-12-02T13:43:19] Indexed 1792 chunks so far
+[2025-12-02T13:43:22] Indexed 1920 chunks so far
+[2025-12-02T13:43:22] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_postnatal_positive_experience_chunks.jsonl
+[2025-12-02T13:43:25] Indexed 2048 chunks so far
+[2025-12-02T13:43:27] Indexed 2176 chunks so far
+[2025-12-02T13:43:30] Indexed total 2289 chunks
+[2025-12-02T13:43:30] Indexing run completed
+[2025-12-04T12:54:19] Starting indexing run
+[2025-12-04T12:54:29] Estimated total chunks: 788
+[2025-12-04T12:54:29] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/Infant and young child feeding_chunks.jsonl
+[2025-12-04T12:54:32] Indexed 128 chunks so far
+[2025-12-04T12:54:32] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/Nurturing_Care_Framework_en_chunks.jsonl
+[2025-12-04T12:54:32] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_antenatal care_chunks.jsonl
+[2025-12-04T12:54:32] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_pcpnc_third_edition_chunks.jsonl
+[2025-12-04T12:54:35] Indexed 256 chunks so far
+[2025-12-04T12:54:38] Indexed 384 chunks so far
+[2025-12-04T12:54:41] Indexed 512 chunks so far
+[2025-12-04T12:54:41] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_postnatal_positive_experience_chunks.jsonl
+[2025-12-04T12:54:43] Indexed 640 chunks so far
+[2025-12-04T12:54:46] Indexed 768 chunks so far
+[2025-12-04T12:54:46] Indexed total 788 chunks
+[2025-12-04T12:54:46] Indexing run completed
+[2025-12-04T13:06:31] Starting indexing run
+[2025-12-04T13:06:39] Estimated total chunks: 788
+[2025-12-04T13:06:39] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/Infant and young child feeding_chunks.jsonl
+[2025-12-04T13:06:42] Indexed 128 chunks so far
+[2025-12-04T13:06:42] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/Nurturing_Care_Framework_en_chunks.jsonl
+[2025-12-04T13:06:42] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_antenatal care_chunks.jsonl
+[2025-12-04T13:06:42] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_pcpnc_third_edition_chunks.jsonl
+[2025-12-04T13:06:45] Indexed 256 chunks so far
+[2025-12-04T13:06:47] Indexed 384 chunks so far
+[2025-12-04T13:06:50] Indexed 512 chunks so far
+[2025-12-04T13:06:50] Reading chunks from /Users/ravina/Desktop/Maternal_postpartum_rag/data/chunks/who_postnatal_positive_experience_chunks.jsonl
+[2025-12-04T13:06:52] Indexed 640 chunks so far
+[2025-12-04T13:06:56] Indexed 768 chunks so far
+[2025-12-04T13:06:56] Indexed total 788 chunks
+[2025-12-04T13:06:56] Indexing run completed
+[2025-12-15T14:55:50] Starting indexing run
+[2025-12-15T14:56:11] Estimated total chunks: 1835
+[2025-12-15T14:56:11] Reading chunks from Pregnancy_postpartum_India_PMSMA_High-Risk-Conditions-in-preg-modified-Final_chunks.jsonl
+[2025-12-15T14:56:11] Reading chunks from Pregnancy_postpartum_NHS_pregnancy_postpartum_guide_chunks.jsonl
+[2025-12-15T14:56:14] Indexed 128 chunks so far
+[2025-12-15T14:56:17] Indexed 256 chunks so far
+[2025-12-15T14:56:17] Reading chunks from Pregnancy_postpartum_who_antenatal care_chunks.jsonl
+[2025-12-15T14:56:17] Reading chunks from Pregnancy_postpartum_who_pcpnc_third_edition_chunks.jsonl
+[2025-12-15T14:56:20] Indexed 384 chunks so far
+[2025-12-15T14:56:23] Indexed 512 chunks so far
+[2025-12-15T14:56:23] Reading chunks from Pregnancy_postpartum_who_postnatal_positive_experience_chunks.jsonl
+[2025-12-15T14:56:25] Indexed 640 chunks so far
+[2025-12-15T14:56:28] Indexed 768 chunks so far
+[2025-12-15T14:56:28] Reading chunks from infant_and_child_care_Baby 411 Clear Answers and Smart Advice for Your Babys First Year (Brown, Ari, Fields, Denise)_chunks.jsonl
+[2025-12-15T14:56:31] Indexed 896 chunks so far
+[2025-12-15T14:56:34] Indexed 1024 chunks so far
+[2025-12-15T14:56:37] Indexed 1152 chunks so far
+[2025-12-15T14:56:40] Indexed 1280 chunks so far
+[2025-12-15T14:56:42] Indexed 1408 chunks so far
+[2025-12-15T14:56:45] Indexed 1536 chunks so far
+[2025-12-15T14:56:45] Reading chunks from infant_and_child_care_Newborn_and_children_care - NHS_chunks.jsonl
+[2025-12-15T14:56:48] Indexed 1664 chunks so far
+[2025-12-15T14:56:51] Indexed 1792 chunks so far
+[2025-12-15T14:56:52] Indexed total 1835 chunks
+[2025-12-15T14:56:52] Indexing run completed
+[2025-12-29T11:39:50] Starting indexing run
+[2025-12-29T11:40:05] Estimated total chunks: 1746
+[2025-12-29T11:40:05] Reading chunks from Pregnancy_postpartum_India_PMSMA_High-Risk-Conditions-in-preg-modified-Final_chunks.jsonl
+[2025-12-29T11:40:05] Reading chunks from Pregnancy_postpartum_NHS_pregnancy_postpartum_guide_chunks.jsonl
+[2025-12-29T11:40:08] Indexed 128 chunks so far
+[2025-12-29T11:40:11] Indexed 256 chunks so far
+[2025-12-29T11:40:11] Reading chunks from Pregnancy_postpartum_who_antenatal care_chunks.jsonl
+[2025-12-29T11:40:11] Reading chunks from Pregnancy_postpartum_who_pcpnc_third_edition_chunks.jsonl
+[2025-12-29T11:40:13] Indexed 384 chunks so far
+[2025-12-29T11:40:16] Indexed 512 chunks so far
+[2025-12-29T11:40:16] Reading chunks from Pregnancy_postpartum_who_postnatal_positive_experience_chunks.jsonl
+[2025-12-29T11:40:19] Indexed 640 chunks so far
+[2025-12-29T11:40:19] Reading chunks from infant_and_child_care_Baby 411 Clear Answers and Smart Advice for Your Babys First Year (Brown, Ari, Fields, Denise)_chunks.jsonl
+[2025-12-29T11:40:22] Indexed 768 chunks so far
+[2025-12-29T11:40:24] Indexed 896 chunks so far
+[2025-12-29T11:40:27] Indexed 1024 chunks so far
+[2025-12-29T11:40:30] Indexed 1152 chunks so far
+[2025-12-29T11:40:33] Indexed 1280 chunks so far
+[2025-12-29T11:40:35] Indexed 1408 chunks so far
+[2025-12-29T11:40:38] Indexed 1536 chunks so far
+[2025-12-29T11:40:38] Reading chunks from infant_and_child_care_Newborn_and_children_care - NHS_chunks.jsonl
+[2025-12-29T11:40:41] Indexed 1664 chunks so far
+[2025-12-29T11:40:43] Indexed total 1746 chunks
+[2025-12-29T11:40:43] Indexing run completed

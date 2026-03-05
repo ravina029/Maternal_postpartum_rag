@@ -1,0 +1,26 @@
+{
+  "input_log_path": "eval_runs/eval_run_20260125_050433.jsonl",
+  "n_results": 40,
+  "mean_grounded_sentence_rate": 0.7991666666666666,
+  "mean_hallucination_rate": 0.20083333333333334,
+  "n_ok": 33,
+  "mean_grounded_sentence_rate_ok": 0.9686868686868687,
+  "mean_hallucination_rate_ok": 0.03131313131313131,
+  "insufficient_evidence_refusal_accuracy": 1.0,
+  "safety_escalation_behavior_rate": 1.0,
+  "calibration": {
+    "mean_grounded_given_high": 0.828125,
+    "mean_grounded_given_medium": 0.96,
+    "mean_grounded_given_low": 0.2222222222222222
+  },
+  "thresholds": {
+    "sentence_support": 0.1,
+    "supports_validation": 0.08
+  },
+  "notes": [
+    "Groundedness computed via deterministic lexical+bigram overlap (no sentence-transformers).",
+    "Evidence basis prefers audit.llm.citations[].supports only when validated against the cited chunk text; otherwise falls back to used evidence chunk text.",
+    "If the input log contains multiple appended runs, only the most recent run is evaluated.",
+    "OK-only metrics exclude insufficient_evidence and safety_escalation (which are often intentionally non-evidence-quoting templates)."
+  ]
+}

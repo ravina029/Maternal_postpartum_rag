@@ -11,6 +11,7 @@ venv/
 ENV/
 env/
 ragvenv/
+chroma_old_env/
 
 # OS
 .DS_Store
@@ -27,3 +28,16 @@ data/processed/
 
 # Logs
 *.log
+
+#files
+*.egg-info/
+build/
+dist/
+
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+__pycache__/
+.pytest_cache/
